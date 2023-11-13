@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alaa Osama</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaakholif&label=Profile%20views&color=0e75b6&style=flat" alt="alaakholif" /> </p>
+
 - 📫 How to reach me **alaayahya182@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
